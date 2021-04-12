@@ -1,6 +1,7 @@
 @echo off
-@title 文件夹链接v0.1
+@title 文件夹链接
 @color 5a
+echo 项目:https://github.com/1779587460/ez-mklink
 echo 不存在的文件夹也可自行输入（如D:\abc）
 echo 请拖入需要链接的空文件夹（非空文件夹的文件会被移到原始文件夹！）
 set /p a=
